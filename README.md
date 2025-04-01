@@ -1,2 +1,3 @@
 # -Optimization-For-Graph-Traversal-Techniques
-This repo has all the Python codes and datasets used in the experimental study
+
+This repository contains the source code and experimental data for our research paper, **"Optimized Graph Traversal Algorithms for Social Networks and Blockchain."** It includes implementations of traditional **BFS and DFS** algorithms alongside optimized traversal techniques such as **Parallel BFS, Direction-Optimized BFS, and GPU-accelerated methods**. The repository also provides Python scripts for **graph generation, algorithm benchmarking, and visualization** using **NetworkX and Matplotlib**. Performance comparisons are documented, demonstrating significant efficiency improvements in large-scale social and blockchain networks. The full research paper and results can be found in the repository, and contributors are welcome to explore and extend the work.
